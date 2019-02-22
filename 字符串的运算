@@ -1,0 +1,4 @@
+1.字符串的相加
+"hello"+"world" = "hello world"
+2.字符串的乘法
+"hello"*3 = "hellohellohello"(即hello重复显示3遍)
